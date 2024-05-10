@@ -1,6 +1,6 @@
 # Simple Color Picker Progressive Web App
 This repository contains a simple progressive web app (PWA) for picking colors using plain HTML, CSS, and JavaScript. 
-It also uses [Vite](https://vitejs.dev/) as a local development tool and the [Color API](https://www.thecolorapi.com/) to retrieve colors.
+It also uses [Vite](https://vitejs.dev/) as a local development tool and the [Color API](https://www.thecolorapi.com/) to retrieve colors. 
 
 ## Features
 - Allows users to select colors using a simple interface.
@@ -14,3 +14,6 @@ It also uses [Vite](https://vitejs.dev/) as a local development tool and the [Co
 
 ## Contributing
 Pull requests are welcome! If you spot any mistakes or have suggestions for improvements, feel free to submit a pull request. Let's make this color picker even better together.
+
+## Watch the video
+[![Watch the video](https://img.youtube.com/vi/IyfKLHT_VP0/maxresdefault.jpg)](https://youtu.be/IyfKLHT_VP0?si=Ug-Fg-_IZGNMzGkT)
